@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tigran_kirakosov:tigran123@common.gg37g.mongodb.net/common?retryWrites=true&w=majority",
+    "jwtSecret": "secrettoken"
+}

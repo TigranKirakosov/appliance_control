@@ -1,0 +1,24 @@
+{
+  "name": "appliance_control",
+  "version": "1.0.0",
+  "description": "A fullstack web-app solution for remote control of an appliance",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigranKirakosov/appliance_control.git"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "rest",
+    "rpc"
+  ],
+  "author": "Tigran Kirakosov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TigranKirakosov/appliance_control/issues"
+  },
+  "homepage": "https://github.com/TigranKirakosov/appliance_control#readme"
+}
